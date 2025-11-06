@@ -1,3 +1,3 @@
 # Versions:v0.02
 # STOP:1
-# URL:b1777d483cceb2e15ab3a92e616ff1df:1667556609&action=download&share_id=ATKIJT&link_mode=1&path=%2Fdrives%2Fdisk_a1%2FUsers%2Fadmin%2F%E4%B8%8A%E4%BD%8D%E6%9C%BA%2Fc4701%E7%94%B5%E6%9C%BA%E6%B5%8B%E8%AF%95%E4%B8%8A%E4%BD%8D%E6%9C%BA%2FTools.exe&PROXY_TARGET=K47195754
+# URL:https://180978298-proxy.hiksemi.cn:8019/rest/1.1/share?access_token=61f7bed10330aed4d427af17b4f182d8:1762410381&action=download&share_id=ODDNMT&link_mode=1&path=%2Fdrives%2Fdisk_a1%2FUsers%2Fadmin%2F%E7%A8%8B%E5%BA%8F%E5%8F%91%E5%B8%83%2Fly_focus_test%2Fly_focus_test.exe&PROXY_TARGET=K47195754
